@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "527822130594",
+    "firebase_url": "https://projetct02-default-rtdb.firebaseio.com",
+    "project_id": "projetct02",
+    "storage_bucket": "projetct02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527822130594:android:c1f12e0f637b5c5a50f6fb",
+        "android_client_info": {
+          "package_name": "com.practicalcoding.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527822130594-lr02j9qqhdosb4t3ata7ee0v6ef2v00o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5rDj_joOI4l5Ltup3fRmBWpykEYsTyys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527822130594-lr02j9qqhdosb4t3ata7ee0v6ef2v00o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
